@@ -45,10 +45,7 @@ body {
   /* these will be unnecessary once we get the banner image */
   color: rgb(71, 206, 216);
   text-align: center;
-}
-#banner-image {
-  width: 125px;
-  margin-bottom: 15px;
+  
 }
 #banner-title {
   font-family: 'Roboto Condensed', sans-serif;
