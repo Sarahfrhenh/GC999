@@ -1,7 +1,7 @@
 /* define constants up here */
 :root {
-  --banner-bg-start: #fd5e6d;
-  --banner-bg-end: #ef5079;
+  --banner-bg-start: #05daff;
+  --banner-bg-end: #05daff;
   --produce-gray: #e4e4e4;
   --search-text-gray: #949494;
   --search-gray: #f2f2f2;
@@ -46,7 +46,7 @@ body {
   color: rgb(71, 206, 216);
   text-align: center;
 }
-#banner-image {
+#banner-image {screenshot.png
   width: 125px;
   margin-bottom: 15px;
 }
