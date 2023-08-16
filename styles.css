@@ -43,7 +43,7 @@ body {
   padding: 25px;
 
   /* these will be unnecessary once we get the banner image */
-  color: white;
+  color: rgb(71, 206, 216);
   text-align: center;
 }
 #banner-image {
