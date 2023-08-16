@@ -330,7 +330,7 @@ const alternateRomanizations = {
   'park jinhee': ['jinny park'],
   'jo sarang': ['cho sarang'],
   'park chanju': ['park chanjoo'],
-  'lee gaeun': ['lee kaeun'],
+  'son sooyun': ['son sooyoon'],
   'na goeun': ['na koeun'],
   'ahn yujin': ['ahn yoojin'],
   'jo gahyun': ['cho gahyun', 'jo kahyun', 'cho kahyun', 'jo kahyeon', 'cho kahyeon'],
